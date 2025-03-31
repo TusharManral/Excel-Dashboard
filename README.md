@@ -20,9 +20,9 @@ With no access to advanced BI platforms, leadership needed a robust Excel dashbo
 **Why Excel?**
 
 While Excel is often underestimated in analytics, this project proves its capability to serve as a complete end-to-end BI solution. Excel handled:
-	•	✅ Data Cleaning & Transformation
-	•	✅ Data Modeling & Structuring
-	•	✅ Visual Reporting & Dashboard Creation
+	•	Data Cleaning & Transformation
+	•	Data Modeling & Structuring
+	•	Visual Reporting & Dashboard Creation
 
 Using formulas, PivotTables, slicers, and charts, Excel provided both flexibility and clarity in one streamlined environment.
 
