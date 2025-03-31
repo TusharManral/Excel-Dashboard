@@ -29,11 +29,11 @@ Using formulas, PivotTables, slicers, and charts, Excel provided both flexibilit
 ⸻
 
 **Dashboard Highlights**
-	•	🔸 Total Customers, Average Income, Sales Value
-	•	🔸 Segmentation by Region, Gender, Marital Status, Education
-	•	🔸 Interactive Slicers for dynamic filtering
-	•	🔸 Visuals: Clustered Bar, Donut Charts, Summary Cards
-	•	🔸 Professional layout for executive decision-making
+	•	Total Customers, Average Income, Sales Value
+	•	Segmentation by Region, Gender, Marital Status, Education
+	•	Interactive Slicers for dynamic filtering
+	•	Visuals: Clustered Bar, Donut Charts, Summary Cards
+	•	Professional layout for executive decision-making
 
 ⸻
 
